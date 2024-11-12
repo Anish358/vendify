@@ -1,0 +1,6 @@
+1. While setting routes in react wrap the routes with a suspense component from react to handle loading state while the routes are rendered
+2. Import different pages for routes us8hnig lazy render them only when their particular route is visited
+
+
+Backend
+Use product.distinct to get unique categories 
